@@ -18,7 +18,8 @@
 ## Latest Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack beta platform - 試玩篇](https://blog.sylee.dev/blog/2022-04-09-slack-beta-platform-試玩篇)
-- [心血來潮又開了一個新站！](https://blog.sylee.dev/blog/2021-11-25-another-new-website)
-- [透過 drone.io 佈署到 heroku（git deploy）](https://blog.sylee.dev/blog/2021-10-06-drone-deploy-to-heroku)
+- [Slack beta platform - 試玩篇](https://sylee.dev/blog/2022-04-09-slack-beta-platform-playground)
+- [心血來潮又開了一個新站！](https://sylee.dev/blog/2021-11-25-another-new-website)
+- [透過 drone.io 佈署到 heroku（git deploy）](https://sylee.dev/blog/2021-10-06-drone-deploy-to-heroku)
+- [SPA 放 AWS Cloudfront 上時，遇到需修正安全性 HTTP Header 怎解？](https://sylee.dev/blog/2021-09-28-spa-aws-cloudfront-security-http-headers)
 <!-- BLOG-POST-LIST:END -->
