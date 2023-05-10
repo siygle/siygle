@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #30](https://chat.sylee.dev/2023/05/09/網路黑手的呢喃-30)
+- [Node Congress 2023 議程筆記](https://chat.sylee.dev/2023/05/01/node-congress-2023-notes)
 - [另一個挑戰者 - bluesky](https://chat.sylee.dev/2023/04/30/another-callenger-bluesky)
 - [馬老闆是不是想甩鍋了](https://chat.sylee.dev/2023/04/15/maybe-musk-want-to-pass-the-buck)
 - [網路黑手的呢喃 #29](https://chat.sylee.dev/2023/04/15/網路黑手的呢喃-29)
-- [網路黑手的呢喃 #28](https://chat.sylee.dev/2023/03/28/網路黑手的呢喃-28)
-- [網路黑手的呢喃 #27](https://chat.sylee.dev/2023/03/16/網路黑手的呢喃-27)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
