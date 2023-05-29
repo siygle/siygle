@@ -18,8 +18,8 @@
 ## Latest Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [val.town 實戰，快速實作一個 Bluesky 轉貼機器人](https://sylee.dev/blog/2023-05-28-val-town-bluesky-repost-scheduler)
 - [又換啦，Deno、Fresh 以及 Webmention](https://sylee.dev/blog/2023-04-10-change-again-deno-fresh-webmention)
 - [Slack beta platform - 試玩篇](https://sylee.dev/blog/2022-04-09-slack-beta-platform-playground)
 - [心血來潮又開了一個新站！](https://sylee.dev/blog/2021-11-25-another-new-website)
-- [透過 drone.io 佈署到 heroku（git deploy）](https://sylee.dev/blog/2021-10-06-drone-deploy-to-heroku)
 <!-- BLOG-POST-LIST:END -->
