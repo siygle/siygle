@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #35](https://chat.sylee.dev/2023/09/05/網路黑手的呢喃-35)
+- [網路黑手的呢喃 #34](https://chat.sylee.dev/2023/08/05/網路黑手的呢喃-34)
 - [Mission Impossible Dead Reckoning - 期望越大失落越大](https://chat.sylee.dev/2023/07/17/MI7-期望越大失落越大)
 - [網路黑手的呢喃 #33](https://chat.sylee.dev/2023/07/05/網路黑手的呢喃-33)
 - [令人錯愕的Google Domains消息](https://chat.sylee.dev/2023/06/22/google-you-better-not-penny-wise-and-pound-foolish)
-- [網路黑手的呢喃 #32](https://chat.sylee.dev/2023/06/16/網路黑手的呢喃-32)
-- [網路黑手的呢喃 #31](https://chat.sylee.dev/2023/05/25/網路黑手的呢喃-31)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
