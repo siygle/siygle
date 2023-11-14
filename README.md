@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #38](https://chat.sylee.dev/2023/11/13/網路黑手的呢喃-38)
+- [好作推薦 - Alan Wake 2](https://chat.sylee.dev/2023/11/09/alan-wake-2)
 - [網路黑手的呢喃 #37](https://chat.sylee.dev/2023/10/26/網路黑手的呢喃-37)
 - [2023 Cloudflare #BirthdayWeek!](https://chat.sylee.dev/2023/10/07/2023-cloudflare-birthdayweek)
 - [網路黑手的呢喃 #36](https://chat.sylee.dev/2023/09/20/網路黑手的呢喃-36)
-- [網路黑手的呢喃 #35](https://chat.sylee.dev/2023/09/05/網路黑手的呢喃-35)
-- [網路黑手的呢喃 #34](https://chat.sylee.dev/2023/08/05/網路黑手的呢喃-34)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
