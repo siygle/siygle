@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #41](https://chat.sylee.dev/2024/01/18/網路黑手的呢喃-41)
+- [OpenAI、GPTs &amp; 未來？](https://chat.sylee.dev/2024/01/17/openai-gpts-and-future)
 - [網路黑手的呢喃 #40](https://chat.sylee.dev/2024/01/10/網路黑手的呢喃-40)
 - [網路黑手的呢喃 #39](https://chat.sylee.dev/2023/12/05/網路黑手的呢喃-39)
 - [網路黑手的呢喃 #38](https://chat.sylee.dev/2023/11/13/網路黑手的呢喃-38)
-- [好作推薦 - Alan Wake 2](https://chat.sylee.dev/2023/11/09/alan-wake-2)
-- [網路黑手的呢喃 #37](https://chat.sylee.dev/2023/10/26/網路黑手的呢喃-37)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
