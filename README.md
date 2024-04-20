@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #46](https://chat.sylee.dev/2024/04/19/網路黑手的呢喃-46)
 - [網路黑手的呢喃 #45](https://chat.sylee.dev/2024/03/28/網路黑手的呢喃-45)
 - [網路黑手的呢喃 #44](https://chat.sylee.dev/2024/03/09/網路黑手的呢喃-44)
 - [網路黑手的呢喃 #43](https://chat.sylee.dev/2024/02/16/網路黑手的呢喃-43)
 - [網路黑手的呢喃 #42](https://chat.sylee.dev/2024/01/22/網路黑手的呢喃-42)
-- [OpenAI、GPTs &amp; 未來？](https://chat.sylee.dev/2024/01/17/openai-gpts-and-future)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
