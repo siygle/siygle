@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #48](https://chat.sylee.dev/2024/06/04/網路黑手的呢喃-48)
 - [GPT-4o &amp; AI 即將帶來穿戴裝置的全面升級？](https://chat.sylee.dev/2024/05/23/new-ai-age-and-its-devices)
 - [網路黑手的呢喃 #47](https://chat.sylee.dev/2024/04/20/網路黑手的呢喃-47)
 - [網路黑手的呢喃 #46](https://chat.sylee.dev/2024/04/19/網路黑手的呢喃-46)
 - [網路黑手的呢喃 #45](https://chat.sylee.dev/2024/03/28/網路黑手的呢喃-45)
-- [網路黑手的呢喃 #44](https://chat.sylee.dev/2024/03/09/網路黑手的呢喃-44)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
