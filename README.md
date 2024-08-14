@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #52](https://chat.sylee.dev/2024/08/13/網路黑手的呢喃-52)
 - [網路世界，你最該先照顧好自己](https://chat.sylee.dev/2024/08/11/take-care-of-yourself-first)
 - [網路黑手的呢喃 #51](https://chat.sylee.dev/2024/07/30/網路黑手的呢喃-51)
 - [頗有意思的 Local-First Conf 2024](https://chat.sylee.dev/2024/07/26/local-first-conf-2024)
 - [網路黑手的呢喃 #50](https://chat.sylee.dev/2024/07/03/網路黑手的呢喃-50)
-- [網路黑手的呢喃 #49](https://chat.sylee.dev/2024/06/18/網路黑手的呢喃-49)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
