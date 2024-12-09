@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
+- [網路黑手的呢喃 #59](https://chat.sylee.dev/2024/12/09/網路黑手的呢喃-59)
 - [網路黑手的呢喃 #58](https://chat.sylee.dev/2024/11/18/網路黑手的呢喃-58)
 - [走了一圈，換 Meta 領跑智慧眼鏡，然後呢？](https://chat.sylee.dev/2024/10/31/meta-smart-glass-and-metaverse-future)
 - [網路黑手的呢喃 #57](https://chat.sylee.dev/2024/10/24/網路黑手的呢喃-57)
 - [網路黑手的呢喃 #56](https://chat.sylee.dev/2024/10/10/網路黑手的呢喃-56)
-- [網路黑手的呢喃 #55](https://chat.sylee.dev/2024/09/27/網路黑手的呢喃-55)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
