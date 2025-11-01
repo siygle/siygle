@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
-- [網路黑手的呢喃 #66](https://chat.sylee.dev/2025/04/27/網路黑手的呢喃-66)
-- [網路黑手的呢喃 #65](https://chat.sylee.dev/2025/04/27/網路黑手的呢喃-65)
-- [Meta 又被吹哨，這次好像更誇張了](https://chat.sylee.dev/2025/04/14/meta-whistleblower-again)
-- [網路黑手的呢喃 #64](https://chat.sylee.dev/2025/04/01/網路黑手的呢喃-64)
-- [網路黑手的呢喃 #63](https://chat.sylee.dev/2025/03/24/網路黑手的呢喃-63)
+- [網路黑手的呢喃 #46](https://chat.sylee.dev/2024/04/19/網路黑手的呢喃-46)
+- [網路黑手的呢喃 #45](https://chat.sylee.dev/2024/03/28/網路黑手的呢喃-45)
+- [網路黑手的呢喃 #44](https://chat.sylee.dev/2024/03/09/網路黑手的呢喃-44)
+- [網路黑手的呢喃 #43](https://chat.sylee.dev/2024/02/16/網路黑手的呢喃-43)
+- [網路黑手的呢喃 #42](https://chat.sylee.dev/2024/01/22/網路黑手的呢喃-42)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
