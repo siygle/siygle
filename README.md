@@ -8,11 +8,11 @@
 ## Latest MurMur
 
 <!-- CHAT-POST-LIST:START -->
-- [網路黑手的呢喃 - #72](https://sylee.dev/newsletter/whispers-of-network-tinkerer-72/)
-- [無人車的未來？ - #71](https://sylee.dev/newsletter/whispers-of-network-tinkerer-71/)
-- [最近湧出不少 AI 相關的想法 - #70](https://sylee.dev/newsletter/whispers-of-network-tinkerer-70/)
-- [重回、呢喃 - #69](https://sylee.dev/newsletter/whispers-of-network-tinkerer-69/)
-- [還是想說點什麼 - #68](https://sylee.dev/newsletter/whispers-of-network-tinkerer-68/)
+- [網路黑手的呢喃 - #72](https://sylee.dev/newsletter/whispers-of-network-tinkerer-72)
+- [無人車的未來？ - #71](https://sylee.dev/newsletter/whispers-of-network-tinkerer-71)
+- [最近湧出不少 AI 相關的想法 - #70](https://sylee.dev/newsletter/whispers-of-network-tinkerer-70)
+- [重回、呢喃 - #69](https://sylee.dev/newsletter/whispers-of-network-tinkerer-69)
+- [還是想說點什麼 - #68](https://sylee.dev/newsletter/whispers-of-network-tinkerer-68)
 <!-- CHAT-POST-LIST:END -->
 
 ## Latest Blog
